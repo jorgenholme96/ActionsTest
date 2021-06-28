@@ -2,8 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const hey = "hey";
-  console.log(hey)
 
   return (
     <div className="App">
