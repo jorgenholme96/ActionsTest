@@ -17,7 +17,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint:report": "eslint --output-file ./eslint-report.log.json --format json packages/"
+    "lint:report": "eslint --output-file ./eslint-report.log.json --format json packages/",
+    "lint": "eslint"
   },
   "eslintConfig": {
     "extends": [
